@@ -6,10 +6,7 @@
 • If you want to view the deployed model, click on the following link:<br />
 Deployed at: _https://spam-sms-predictor.herokuapp.com/_
 
-• If you are searching for __Code, Algorithms used and Accuracy of the model__.. you won't find it here. Click the link mentioned below for the same:<br />
-Link: _https://github.com/ankitnihon/
-
-• Please do ⭐ the repository, if it helped you in anyway.
+• Please do like the repository, if it helped you in anyway.
 
 • A glimpse of the web app:
 
