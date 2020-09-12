@@ -17,3 +17,4 @@ _**----- Important Note -----**_<br />
 • Sorry for the inconvenience.
 
 ![Heroku-Error](readme_resources/application-error-heroku.png)
+
